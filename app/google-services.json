@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455398906034",
+    "firebase_url": "https://crud-kotlin-c48cc.firebaseio.com",
+    "project_id": "crud-kotlin-c48cc",
+    "storage_bucket": "crud-kotlin-c48cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455398906034:android:a19028b82d365a117f51ab",
+        "android_client_info": {
+          "package_name": "com.utng.firebase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455398906034-mlkqalkb2tqorqmd2lo4qd4vhuopfkat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utng.firebase_kotlin",
+            "certificate_hash": "8db2ac40b5c24a152ddf13af9478ef5f02bbec67"
+          }
+        },
+        {
+          "client_id": "455398906034-vajr9r3no9pctv01rukctl1756uiq559.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBARa8y8PvOS_8KHXSTWAdUkPTPmoXk7-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455398906034-vajr9r3no9pctv01rukctl1756uiq559.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
